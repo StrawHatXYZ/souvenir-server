@@ -38,3 +38,7 @@ yarn-error.log*
 
 # logs
 *.log
+
+.env
+
+src/data.txt
